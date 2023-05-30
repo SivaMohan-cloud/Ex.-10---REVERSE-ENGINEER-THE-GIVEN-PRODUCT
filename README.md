@@ -31,8 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![241357222-7e73f173-9892-44d8-8633-34cd7f043c2c](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/ca009813-2f8b-414b-a912-5b850d909bac)
 
 ### Output:
+![241357530-feff822c-ab34-4685-b32f-39a16c10915b](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/bed512be-b98c-46cc-8e50-201f72f309f1)
 
 
 ### Name: SIVAMOHANASUNDARAM. V
