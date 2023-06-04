@@ -31,11 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![241357222-7e73f173-9892-44d8-8633-34cd7f043c2c](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/ca009813-2f8b-414b-a912-5b850d909bac)
+![241862946-dd6a8b36-b997-475d-b3f2-d962f9dce48a](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/44505c70-c043-4abe-b869-6d0b52891fb3)
 
 ### Output:
-![241357530-feff822c-ab34-4685-b32f-39a16c10915b](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/bed512be-b98c-46cc-8e50-201f72f309f1)
-
+![241863227-3f4383d0-dea7-4ff7-b70e-ed1eb6bd8f54](https://github.com/SivaMohan-cloud/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121418870/1d16242c-4a26-4ab4-a6c3-f9e50654ad9f)
 
 ### Name: SIVAMOHANASUNDARAM. V
 ### Register Number: 212222230145
